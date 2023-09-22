@@ -1,0 +1,45 @@
+body, h2, form {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: peachpuff;
+}
+
+form {
+    margin: 40px;
+}
+
+.container {
+    background-color: peru;
+    width: 300px;
+    margin: 100px auto;
+    padding: 20px;
+    border-radius: 5px;
+    /* text-align: center; */
+}
+
+text {
+    display: block;
+    margin-bottom: 5px;
+    color: aliceblue;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+button {
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    width: 100%;
+}
+
+button:hover{
+    background:cornsilk;
+}
